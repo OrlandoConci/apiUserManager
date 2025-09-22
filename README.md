@@ -12,9 +12,11 @@ La **API REST** Cuenta con validación de datos y utiliza memoria local.
 - H2 Database
 - Spring Web
 
-## IDE de ejecución
+## Ejecución
+1) git clone https://github.com/OrlandoConci/apiUserManager
+2) Descargar IDLE
 `IntelliJ IDEA`
-Descarga:
+Link:
 ```bash
 https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
 ```
